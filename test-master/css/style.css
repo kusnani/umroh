@@ -1,0 +1,47 @@
+div.container {
+  background-color: #f8f8f8;
+}
+section.header {
+  padding-top: 50px;
+}
+.fa {
+  transform: scale(2, 1);
+  padding-right: 50px;
+  color: #3b5998;
+}
+section.mekkah-bg {
+  margin-top: 40px;
+}
+img.cl-mekkah {
+  width: 1115px;
+}
+nav.navbar {
+  background-color: #57ad68;
+}
+.navbar-brand {
+  color: white !important;
+}
+ul.navbar-nav li a {
+  color: white !important;
+}
+section.kontak-kusnani {
+  margin-top: 30px;
+}
+img.img-kusnani {
+  margin-top: 20px;
+  width: 300px;
+}
+p.p-about {
+  margin-top: 30px;
+}
+
+h1.cl-paket-h1 {
+  font-size: 30px;
+}
+p.cl-paket-p {
+  font-family: "Tangerine", serif;
+  font-size: 48px;
+}
+div.c-padding-top{
+  margin-top: 20px;
+}
